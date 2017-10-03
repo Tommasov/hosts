@@ -4,5 +4,7 @@
 
 Syntax color for hosts file.
 
+## Installation
+Download from [marketplace](https://marketplace.visualstudio.com/items?itemName=tommasov.hosts)
 
 **Enjoy!**
