@@ -10,7 +10,7 @@
 		"url": "https://github.com/tommasov/hosts"
 	},
 	"engines": {
-		"vscode": "^1.16.0"
+		"vscode": "^1.0.0"
 	},
 	"categories": [
 		"Languages"
