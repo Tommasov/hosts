@@ -2,7 +2,7 @@
 	"name": "hosts",
 	"displayName": "Hosts Language",
 	"description": "Syntax colors for hosts file.",
-	"version": "1.2",
+	"version": "1.2.0",
 	"publisher": "tommasov",
 	"icon": "icon.png",
 	"repository": {
